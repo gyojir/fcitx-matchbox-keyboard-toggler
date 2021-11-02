@@ -1,0 +1,8 @@
+[Addon]
+Name=fcitx-matchbox-keyboard-toggler
+_GeneralName=Matchbox-Keyboard Toggler
+_Comment=
+Category=Module
+Enabled=True
+Library=fcitx-matchbox-keyboard-toggler.so
+Type=SharedLibrary
