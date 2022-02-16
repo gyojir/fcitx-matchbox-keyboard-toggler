@@ -5,7 +5,7 @@ project(fcitx-matchbox-keyboard-toggler)
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_STANDARD_REQUIRED TRUE)
 
-find_package(Fcitx 4.2.9.6 REQUIRED)
+find_package(Fcitx 4 REQUIRED)
 
 _fcitx_add_uninstall_target()
 
